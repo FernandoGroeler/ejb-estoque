@@ -4,7 +4,8 @@ public enum ProdutosEstoque {
 	CAMISA(1, "Camisa", 50, 20),
 	CALCA(2, "Calça", 70, 15),
 	TENIS(3, "Tênis", 150, 10),
-	CAMISETA(4, "Camiseta", 30, 0);
+	CAMISETA(4, "Camiseta", 30, 0),
+	MEIA(5, "Meia", 12, 30);
 	
 	private final int id;
 	private final String descricao;
